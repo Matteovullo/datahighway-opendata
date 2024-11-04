@@ -514,7 +514,8 @@
             "parking_space": "http://dbpedia.org/ontology/parking_space",
             "disused": "http://dbpedia.org/ontology/disused",
             "inscription": "http://dbpedia.org/ontology/inscription",
-            "orientation": "http://dbpedia.org/ontology/orientation"
+            "orientation": "http://dbpedia.org/ontology/orientation",
+            "location": "http://dbpedia.org/ontology/location"
         },
         "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.6.jsonld"
     ]
